@@ -1,0 +1,10 @@
+default_rate_cents_per_kwh: 20.0
+
+rates:
+  - plan_code: "RES-2025-A"
+    effective_date: "2025-01-02"
+    rate_cents_per_kwh: 15.5
+
+  - plan_code: "RES-2025-B"
+    effective_date: "2025-01-03"
+    rate_cents_per_kwh: 21.0

@@ -1,0 +1,11 @@
+database:
+  host: localhost
+  port: 5433
+  user: malo
+  password: "Unlimitedphos@1"
+  dbname: energy_analytics
+
+assumptions:
+  currency: ZAR
+  fallback_rate_cents_per_kwh: 22.5
+  anomaly_threshold: 3.0
