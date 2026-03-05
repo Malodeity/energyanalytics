@@ -22,6 +22,8 @@ The solution uses Python to ingest JSON/YAML files into PostgreSQL using a batch
 
 ![alt text](image.png)
 
+## ERD
+![alt text](image-1.png)
 
 ## Design decisions and Trade-offs
 
