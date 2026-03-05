@@ -1,4 +1,4 @@
-# Enerweb Energy Analytics (Local PostgreSQL)
+# Energy Analytics (Local PostgreSQL)
 
 ## Project overview
 This project implements a small, enterprise-style analytics pipeline for energy consumption data. It ingests daily meter readings from a JSON file and plan rate updates from a YAML file, applies effective-dated business rules, and exposes stakeholder-ready results through a read-only SQL view.
